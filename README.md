@@ -8,3 +8,5 @@ The steps involved are:
 - Glove embeddings
 - Creating a LSTM architecture
 - Training a stacked LSTM
+
+Also used here glove.6B.50d 
